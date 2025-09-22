@@ -1,0 +1,14 @@
+body {
+    background-color: #3498db;
+    transition: background-color 0.3s ease;
+}
+
+/* Alternativa de color */
+.fondo-alternativo {
+    background-color: #e74c3c;
+}
+
+/* Hover effect para cambio dinámico */
+body:hover {
+    background-color: #2ecc71;
+}
